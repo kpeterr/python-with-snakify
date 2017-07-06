@@ -3,6 +3,6 @@ Learn Python with Snakify.org
 
 ### Table of Contents:
 1. __Input, print and numbers__
-  1.1 Sum of three numbers
-2 __Conditions: if, then, else__
-  2.1 Minimum of two numbers
+  1. Sum of three numbers
+2. __Conditions: if, then, else__
+  1. Minimum of two numbers
