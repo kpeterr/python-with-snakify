@@ -2,5 +2,7 @@
 Learn Python with Snakify.org
 
 ### Table of Contents:
-* Input, print and numbers
-* * Sum of three numbers
+* __Input, print and numbers__
+  * Sum of three numbers
+* __Conditions: if, then, else__
+  * Minimum of two numbers
